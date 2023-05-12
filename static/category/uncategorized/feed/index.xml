@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; 1st90cs</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/1st90cs/static/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/1st90cs/static</link>
 	<description>1st 90 Days Customer Success</description>
 	<lastBuildDate>Mon, 08 May 2023 23:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,40 +21,40 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>New Post Test</title>
-		<link>/2023/05/08/new-post-test/</link>
-					<comments>/2023/05/08/new-post-test/#respond</comments>
+		<link>/1st90cs/static/2023/05/08/new-post-test/</link>
+					<comments>/1st90cs/static/2023/05/08/new-post-test/#respond</comments>
 		
 		<dc:creator><![CDATA[1st90cs]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 23:01:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=15</guid>
+		<guid isPermaLink="false">/1st90cs/static/?p=15</guid>
 
 					<description><![CDATA[New Post test]]></description>
 										<content:encoded><![CDATA[
 <p>New Post test</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/05/08/new-post-test/feed/</wfw:commentRss>
+					<wfw:commentRss>/1st90cs/static/2023/05/08/new-post-test/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/2023/05/08/hello-world/</link>
-					<comments>/2023/05/08/hello-world/#comments</comments>
+		<link>/1st90cs/static/2023/05/08/hello-world/</link>
+					<comments>/1st90cs/static/2023/05/08/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[1st90cs]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 21:41:40 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/1st90cs/static/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/05/08/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/1st90cs/static/2023/05/08/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
