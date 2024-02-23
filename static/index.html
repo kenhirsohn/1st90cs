@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+
+<!-- THIS CODE IS FOR TESTING PURPOSE ONLY, DO NOT USE IT IN PRODUCTION.
+After adding this script, call setConsentBannerParams({uuid: <unique id> }) to set unique ID for a customer.  -->
+<script>
+(function () {
+	var s = document.createElement('script');
+	s.src = 'https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-loader.js';
+	s.setAttribute('data-tenant-uuid', 'a2ff6f52-c0fa-44f1-b4b7-90454a3cb186');
+	s.setAttribute('data-domain-uuid', '10329d52-8930-4659-9c61-769f0fbd09cd');
+	s.setAttribute('data-backend-url', 'https://app.securiti.ai');
+	s.setAttribute('data-securiti-staging-mode', 'true');
+	s.setAttribute('data-skip-css', 'false');
+	s.defer = true;
+	var parent_node = document.head || document.body;
+	parent_node.appendChild(s);
+})()
+</script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
@@ -61,7 +78,7 @@ img.emoji {
 <div class="wp-block-group alignwide has-global-padding is-layout-constrained"></div>
 
 
-<h1 style="margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center wp-block-post-title">Welcome to 1st90CS! 2024</h1>
+<h1 style="margin-bottom:var(--wp--preset--spacing--40);" class="has-text-align-center wp-block-post-title">Welcome to 1st90CS! 2024.1</h1>
 </div>
 
 
